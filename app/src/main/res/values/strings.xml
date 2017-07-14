@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C347P08_GoogleMaps</string>
+        <string-array name="region_array">
+            <item>North</item>
+            <item>Central</item>
+            <item>East</item>
+        </string-array>
+</resources>
